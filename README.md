@@ -1,5 +1,15 @@
 ## Database Project
 
+##### 1.5.0 [2021/3/23 22:56]
+
+- Added mutiple tables
+- Added mutiple forms
+- Added mutiple queries
+- Finished "Student_Personal_medicalInformation", "Student_Personal_guardianInformation", "Student_Personal_awardsRecord", "Student_Personal_academicRecords"
+- Working on "Student_Personal_selfAccount"
+
+- - -
+
 ##### 1.4.1 [2021/3/20 22:51]
 
 - Slight modified the "README.md"
@@ -51,8 +61,7 @@
 
 - Finished whole function of the Login in screen.
 
-###### Update 2021/3/20
-Not actually all functions
+###### Update 2021/3/20 Not actually all functions
 
 ##### 1.1.0
 
