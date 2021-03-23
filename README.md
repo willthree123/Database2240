@@ -1,5 +1,19 @@
 ## Database Project
 
+##### 2.0.0 [2021/3/24 00:57]
+
+- Added "Student_browseActivites"
+- Modified table "Activity_information" and "Activity_record"
+
+- - -
+
+##### 1.5.1 [2021/3/23 23:36]
+
+- Finished "Student_Personal_selfAccount"
+- Finished 1/3 of the function of Student
+- Next will be working on Student Main Menu functions
+- The next version will start at 2.0.0
+
 ##### 1.5.0 [2021/3/23 22:56]
 
 - Added mutiple tables
@@ -73,7 +87,7 @@
 
 - with access file attached.
 
-##### 1.0.0
+##### 1.0.0 [2021/3/19 06:04]
 
 - basic form
 - vb current student form
