@@ -125,3 +125,34 @@ Private Sub btn_loginOverlay_Click()
 End Sub
 
 
+Private Sub Form_Load()
+
+    Dim CurrentTmpGender As String
+    Dim TmpTeacherid As String
+    Dim TmpTeacherName As String
+    Dim TmpStudentid As String
+
+    Me.club_id.Caption = getCurrentTMPid
+    Me.club_name.Caption = Nz(DLookup("[Club_name]", "Club_information", "[Club_id] = '" & [getCurrentTMPid] & "'"), 0)
+    Me.club_des.Caption = Nz(DLookup("[Club_description]", "Club_information", "[Club_id] = '" & [getCurrentTMPid] & "'"), 0)
+
+    TmpTeacherid = Nz(DLookup("[Teacher_id]", "Club_schoolyear", "[Club_id] = '" & [getCurrentTMPid] & "'"), 0)
+    CurrentTmpGender = Nz(DLookup("[Teacher_gender]", "Teacher_information", "[Teacher_id] = '" & [TmpTeacherid] & "'"), 0)
+    
+    If CurrentTmpGender = "F" Then
+        TmpTeacherName = "Ms."
+        
+    Else
+        TmpTeacherName = "Mr."
+        
+    End If
+    
+    TmpTeacherName = TmpTeacherName & " " & Nz(DLookup("[Teacher_lastName]", "Teacher_information", "[Teacher_id] = '" & TmpTeacherid & "'"), 0) &" "& Nz(DLookup("[Teacher_firstName]", "Teacher_information", "[Teacher_id] = '" & TmpTeacherid & "'"), 0)
+    Me.club_teach.Caption = TmpTeacherName
+
+    TmpStudentid = Nz(DLookup("[Student_id]", "Club_schoolyear", "[Club_id] = '" & [getCurrentTMPid] & "'"), 0)
+    Me.club_chairper.Caption = Nz(DLookup("[Student_lastName]", "Student_information", "[Student_id] = '" & TmpStudentid & "'"), 0) &" "& Nz(DLookup("[Student_firstName]", "Student_information", "[Student_id] = '" & TmpStudentid & "'"), 0)
+
+End Sub
+
+

@@ -1,5 +1,10 @@
 ## Database Project
 
+##### 2.0.7 [2021/3/30 23:33]
+
+- Finished Student_browseClub
+- Finished Student_browseActivities
+
 ##### 2.0.6 [2021/3/30 20:23]
 
 - Finished Student_browseActivities
