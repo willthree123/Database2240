@@ -1,5 +1,10 @@
 ## Database Project
 
+##### 2.1.1 [2021/3/31 02:06]
+
+- High level query in "Student_browseActivities"
+	Same school year, club, max people, reg deadline...
+
 ##### 2.1.0 [2021/3/30 23:41]
 
 - Added "Student_login" and "Teacher_login"
