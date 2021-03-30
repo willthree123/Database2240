@@ -1,5 +1,14 @@
 ## Database Project
 
+##### 2.1.0 [2021/3/30 23:41]
+
+- Added "Student_login" and "Teacher_login"
+- moded code in login for both student and teacher
+- Finished "Teacher_Personal_general"
+- Finished "Teacher_welcome" (without nav buttons)
+
+- - -
+
 ##### 2.0.7 [2021/3/30 23:33]
 
 - Finished Student_browseClub
