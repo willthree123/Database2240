@@ -1,5 +1,10 @@
 ## Database Project
 
+##### 2.0.6 [2021/3/30 20:23]
+
+- Finished Student_browseActivities
+- Working on Student_browseClubs
+
 ##### 2.0.5 [2021/3/30 15:37]
 
 - Renamed to "Database5.accdb"
