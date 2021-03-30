@@ -1,8 +1,14 @@
 ## Database Project
 
+##### 2.0.5 [2021/3/30 15:37]
+
+- Renamed to "Database5.accdb"
+- Added "Student_browseActivitiesPopUp"
+- Finished the overall layout of the above form
+
 ##### 2.0.4 [2021/3/30 12:44]
 
-- working on "Student_browseActivites"
+- working on "Student_browseActivities"
 - Form Button test worked
 
 ##### 2.0.3 [2021/3/25 19:39]
