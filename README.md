@@ -1,10 +1,17 @@
 ## Database Project
 
+##### 2.2.1 [2021/4/11 01:29]
+
+- Working on "Student_applicationState" "activity side"
+- Should be finished everything related to "activity"
+- next version is 2.3.0, work on "clubs side"
+
 ##### 2.2.0 [2021/4/11 23:21]
 
 - Higher level query in "Student_browseActivities"
 	max people with approvel 
 - Can sign up activity (with (error/success) msgbox)
+- Working on "Student_applicationState"
 
 ##### 2.1.1 [2021/3/31 02:06]
 
