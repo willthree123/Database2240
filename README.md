@@ -1,5 +1,11 @@
 ## Database Project
 
+##### 2.2.0 [2021/4/11 23:21]
+
+- Higher level query in "Student_browseActivities"
+	max people with approvel 
+- Can sign up activity (with (error/success) msgbox)
+
 ##### 2.1.1 [2021/3/31 02:06]
 
 - High level query in "Student_browseActivities"
