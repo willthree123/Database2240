@@ -1,8 +1,13 @@
 ## Database Project
 
-##### 2.3.0 [2021/4/11 01:29]
+##### 2.3.1 [2021/4/12 03:42]
 
--
+- Finished "Student_browseClub"
+- Next please work on "Student_applicationStatesClub"
+
+##### 2.3.0 [2021/4/12 03:29]
+
+- Pushed just incase
 
 - - -
 
