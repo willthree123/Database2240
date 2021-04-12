@@ -1,5 +1,28 @@
 ## Database Project
 
+##### 4.0.1 [2021/4/13 02:31]
+
+- Finished "Student_CMTs_attendance"
+
+##### 4.0.0 [2021/4/13 01:19]
+
+- Finished "Student_CMTs" "login"
+- Working on "Student_CMTs_attendance"
+
+- - -
+
+##### 3.0.0 [2021/4/12 20:19]
+
+- Finished "Records" Tab
+- Next Work on CMTs
+
+- - -
+
+##### 2.3.7 [2021/4/12 18:15]
+
+- Deleted all accdb, other than the current version "7"
+- For better performance, increase speed
+
 ##### 2.3.6 [2021/4/12 18:10]
 
 - Finished merging
