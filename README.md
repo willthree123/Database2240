@@ -1,5 +1,10 @@
 ## Database Project
 
+##### 2.3.7 [2021/4/12 18:15]
+
+- Deleted all accdb, other than the current version "7"
+- For better performance, increase speed
+
 ##### 2.3.6 [2021/4/12 18:10]
 
 - Finished merging
