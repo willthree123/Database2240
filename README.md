@@ -1,5 +1,12 @@
 ## Database Project
 
+##### 3.0.0 [2021/4/12 20:19]
+
+- Finished "Records" Tab
+- Next Work on CMTs
+
+- - -
+
 ##### 2.3.7 [2021/4/12 18:15]
 
 - Deleted all accdb, other than the current version "7"
