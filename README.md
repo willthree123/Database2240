@@ -1,5 +1,34 @@
 ## Database Project
 
+##### 2.3.6 [2021/4/12 18:10]
+
+- Finished merging
+- Created "GoTempPage" for a temp transfer
+- Fixed switching form glitch which discovered in verson 2.3.2
+- application state and browse are completed
+- Next please work on "Records", and start the next version 3.0.0
+
+##### 2.3.5 [2021/4/12 --:--]
+
+- FYT moded
+
+
+##### 2.3.4 [2021/4/12 05:29]
+
+- slight changed
+
+##### 2.3.3 [2021/4/12 05:28]
+
+- slight changed
+
+##### 2.3.2 [2021/4/12 05:15]
+
+- Renamed to "Database 6"
+- Application status of both is completed
+- Trying to deal with the problem that switching form glitch
+	Transfer page?
+	DoCmd Command?
+
 ##### 2.3.1 [2021/4/12 03:42]
 
 - Finished "Student_browseClub"
