@@ -1,5 +1,21 @@
 ## Database Project
 
+##### 2.3.4 [2021/4/12 05:29]
+
+- slight changed
+
+##### 2.3.3 [2021/4/12 05:28]
+
+- slight changed
+
+##### 2.3.2 [2021/4/12 05:15]
+
+- Renamed to "Database 6"
+- Application status of both is completed
+- Trying to deal with the problem that switching form glitch
+	Transfer page?
+	DoCmd Command?
+
 ##### 2.3.1 [2021/4/12 03:42]
 
 - Finished "Student_browseClub"
