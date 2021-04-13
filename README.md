@@ -1,5 +1,9 @@
 ## Database Project
 
+##### 4.0.2 [2021/4/13 18:40]
+
+- Fixed "Student_CMTs_attendance" transfering problem
+
 ##### 4.0.1 [2021/4/13 02:31]
 
 - Finished "Student_CMTs_attendance"
