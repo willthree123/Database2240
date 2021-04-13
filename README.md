@@ -1,6 +1,11 @@
 ## Database Project
 
-##### 4.2.0 [2021/4/13 23:24]
+##### 4.2.1 [2021/4/14 00:28]
+
+- Renamed to "Database8"
+- Ready for testing
+
+##### 4.2.0 [2021/4/14 00:26]
 
 - Finished "Student_CMTs_addActivity". Fully functional
 - Deleted everything related to "Student payment records" and "Student CMTs Booking"
@@ -53,7 +58,6 @@
 
 - FYT moded
 
-
 ##### 2.3.4 [2021/4/12 05:29]
 
 - slight changed
@@ -79,8 +83,6 @@
 
 - Pushed just incase
 
-- - -
-
 ##### 2.2.1 [2021/4/12 01:29]
 
 - Working on "Student_applicationState" "activity side"
@@ -105,8 +107,6 @@
 - moded code in login for both student and teacher
 - Finished "Teacher_Personal_general"
 - Finished "Teacher_welcome" (without nav buttons)
-
-- - -
 
 ##### 2.0.7 [2021/3/30 23:33]
 
@@ -163,8 +163,6 @@
 - Finished "Student_Personal_medicalInformation", "Student_Personal_guardianInformation", "Student_Personal_awardsRecord", "Student_Personal_academicRecords"
 - Working on "Student_Personal_selfAccount"
 
-- - -
-
 ##### 1.4.1 [2021/3/20 22:51]
 
 - Slight modified the "README.md"
@@ -178,8 +176,6 @@
 - "Database31" is abandoned
 - Work on "Database4"
 
-- - -
-
 ##### 1.3.1
 
 - Added figmaToAccess
@@ -192,8 +188,6 @@
 - Added Logout feature
 - Added Clock feature
 
-- - -
-
 ##### 1.2.3
 
 - replaced "All login" form with "Ban" form and renamed to "AllLogin"
@@ -205,8 +199,6 @@
 ##### 1.2.1
 
 - replaced "All login" form with "Ban" form and renamed to "AllLogin"
-
-- - -
 
 ##### 1.1.3
 
@@ -222,7 +214,6 @@
 
 - login basic
 
-- - -
 
 ##### 1.0.1
 
