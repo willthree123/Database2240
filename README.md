@@ -1,5 +1,10 @@
 ## Database Project
 
+##### 4.3.0 [2021/4/14 00:28]
+
+- Changed "Student_applicationState" show Activity on load
+- Fixed Clook issue
+
 ##### 4.2.1 [2021/4/14 00:28]
 
 - Renamed to "Database8"
