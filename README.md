@@ -1,5 +1,15 @@
 ## Database Project
 
+##### 4.2.0 [2021/4/13 23:24]
+
+- Finished "Student_CMTs_addActivity". Fully functional
+- Deleted everything related to "Student payment records" and "Student CMTs Booking"
+- Testing is needed
+
+##### 4.1.0 [2021/4/13 23:24]
+
+- Finished "Student_CMTs_records"
+
 ##### 4.0.3 [2021/4/13 20:39]
 
 - Finished "Student_CMTs_addActivity". However, not fully functional
