@@ -1,9 +1,17 @@
 ## Database Project
 
-##### 4.3.0 [2021/4/14 00:28]
+##### 4.3.1 [2021/4/14 02:15]
+
+- Moved field "schoolyear" from table "activity_record" to "activity_information"
+- Renamed to "Database9"
+- Next verion should be 5.0.0 and working on teacher
+
+##### 4.3.0 [2021/4/14 01:57]
 
 - Changed "Student_applicationState" show Activity on load
 - Fixed Clook issue
+- Fixed admin login runtime error
+- Added "admin_information"
 
 ##### 4.2.1 [2021/4/14 00:28]
 
