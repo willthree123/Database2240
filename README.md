@@ -1,5 +1,12 @@
 ## Database Project
 
+##### 5.0.0 [2021/4/14 03:31]
+
+- Finished "Teacher_CMTs"
+	"Member" is still not fully functional
+	
+- - -
+
 ##### 4.3.1 [2021/4/14 02:15]
 
 - Moved field "schoolyear" from table "activity_record" to "activity_information"
