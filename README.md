@@ -1,5 +1,9 @@
 ## Database Project
 
+##### 4.0.3 [2021/4/13 20:39]
+
+- Finished "Student_CMTs_addActivity". However, not fully functional
+
 ##### 4.0.2 [2021/4/13 18:40]
 
 - Fixed "Student_CMTs_attendance" transfering problem
