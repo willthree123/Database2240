@@ -1,5 +1,9 @@
 ## Database Project
 
+##### 6.0.1 [2021/4/14 20:33]
+
+- Slight changed
+
 ##### 6.0.0 [2021/4/14 20:00]
 
 - Query is needed
