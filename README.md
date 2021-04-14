@@ -1,5 +1,16 @@
 ## Database Project
 
+##### 6.0.0 [2021/4/14 20:00]
+
+- Query is needed
+- Created "Database10.accdb"
+
+- - -
+
+##### 5.2.2 [2021/4/14 19:27]
+
+- Playto Change
+
 ##### 5.2.1 [2021/4/14 18:12]
 
 - Slight Change
