@@ -1,6 +1,10 @@
 ## Database Project
 
-##### 5.1.0 [2021/4/14 03:31]
+##### 5.2.0 [2021/4/14 18:07]
+
+- Finished "Teacher_AMTs"
+
+##### 5.1.0 [2021/4/14 14:40]
 
 - Finished "Teacher_CMTs"
 
