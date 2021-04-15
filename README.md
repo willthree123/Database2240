@@ -1,5 +1,9 @@
 ## Database Project
 
+##### 8.0.2 [2021/4/15 22:13]
+
+- Added S00001 to student grade this year
+
 ##### 8.0.1 [2021/4/15 21:38]
 
 - fixed club activity message box
