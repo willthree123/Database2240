@@ -1,5 +1,9 @@
 ## Database Project
 
+##### 8.0.0 [2021/4/15 21:38]
+
+- Final
+
 ##### 7.2.0 [2021/4/15 19:28]
 
 - added reports
