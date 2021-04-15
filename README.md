@@ -1,8 +1,14 @@
 ## Database Project
 
+##### 8.0.1 [2021/4/15 21:38]
+
+- fixed club activity message box
+
 ##### 8.0.0 [2021/4/15 21:38]
 
 - Final
+
+- - -
 
 ##### 7.2.0 [2021/4/15 19:28]
 
