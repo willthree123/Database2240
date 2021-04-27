@@ -1,5 +1,103 @@
 ## Database Project
 
+##### 8.0.2 [2021/4/15 22:13]
+
+- Added S00001 to student grade this year
+
+##### 8.0.1 [2021/4/15 21:38]
+
+- fixed club activity message box
+
+##### 8.0.0 [2021/4/15 21:38]
+
+- Final
+
+- - -
+
+##### 7.2.0 [2021/4/15 19:28]
+
+- added reports
+
+##### 7.1.0 [2021/4/15 13:53]
+
+- added "Database_relationship"
+
+##### 7.0.1 [2021/4/15 03:04]
+
+- Upload
+
+- - -
+
+##### 6.0.1 [2021/4/14 20:33]
+
+- Slight changed
+
+##### 6.0.0 [2021/4/14 20:00]
+
+- Query is needed
+- Created "Database10.accdb"
+
+- - -
+
+##### 5.2.2 [2021/4/14 19:27]
+
+- Playto Change
+
+##### 5.2.1 [2021/4/14 18:12]
+
+- Slight Change
+
+##### 5.2.0 [2021/4/14 18:07]
+
+- Finished "Teacher_AMTs"
+
+##### 5.1.0 [2021/4/14 14:40]
+
+- Finished "Teacher_CMTs"
+
+##### 5.0.0 [2021/4/14 03:31]
+
+- Finished "Teacher_CMTs"
+	"Member" is still not fully functional
+	
+- - -
+
+##### 4.3.1 [2021/4/14 02:15]
+
+- Moved field "schoolyear" from table "activity_record" to "activity_information"
+- Renamed to "Database9"
+- Next verion should be 5.0.0 and working on teacher
+
+##### 4.3.0 [2021/4/14 01:57]
+
+- Changed "Student_applicationState" show Activity on load
+- Fixed Clook issue
+- Fixed admin login runtime error
+- Added "admin_information"
+
+##### 4.2.1 [2021/4/14 00:28]
+
+- Renamed to "Database8"
+- Ready for testing
+
+##### 4.2.0 [2021/4/14 00:26]
+
+- Finished "Student_CMTs_addActivity". Fully functional
+- Deleted everything related to "Student payment records" and "Student CMTs Booking"
+- Testing is needed
+
+##### 4.1.0 [2021/4/13 23:24]
+
+- Finished "Student_CMTs_records"
+
+##### 4.0.3 [2021/4/13 20:39]
+
+- Finished "Student_CMTs_addActivity". However, not fully functional
+
+##### 4.0.2 [2021/4/13 18:40]
+
+- Fixed "Student_CMTs_attendance" transfering problem
+
 ##### 4.0.1 [2021/4/13 02:31]
 
 - Finished "Student_CMTs_attendance"
@@ -60,8 +158,6 @@
 
 - Pushed just incase
 
-- - -
-
 ##### 2.2.1 [2021/4/12 01:29]
 
 - Working on "Student_applicationState" "activity side"
@@ -86,8 +182,6 @@
 - moded code in login for both student and teacher
 - Finished "Teacher_Personal_general"
 - Finished "Teacher_welcome" (without nav buttons)
-
-- - -
 
 ##### 2.0.7 [2021/3/30 23:33]
 
@@ -144,8 +238,6 @@
 - Finished "Student_Personal_medicalInformation", "Student_Personal_guardianInformation", "Student_Personal_awardsRecord", "Student_Personal_academicRecords"
 - Working on "Student_Personal_selfAccount"
 
-- - -
-
 ##### 1.4.1 [2021/3/20 22:51]
 
 - Slight modified the "README.md"
@@ -159,8 +251,6 @@
 - "Database31" is abandoned
 - Work on "Database4"
 
-- - -
-
 ##### 1.3.1
 
 - Added figmaToAccess
@@ -173,8 +263,6 @@
 - Added Logout feature
 - Added Clock feature
 
-- - -
-
 ##### 1.2.3
 
 - replaced "All login" form with "Ban" form and renamed to "AllLogin"
@@ -186,8 +274,6 @@
 ##### 1.2.1
 
 - replaced "All login" form with "Ban" form and renamed to "AllLogin"
-
-- - -
 
 ##### 1.1.3
 
@@ -203,7 +289,6 @@
 
 - login basic
 
-- - -
 
 ##### 1.0.1
 
